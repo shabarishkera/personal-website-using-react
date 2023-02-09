@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shabarishkera/personal-website-using-react/static/css/main.89dad679.css",
+    "main.js": "/shabarishkera/personal-website-using-react/static/js/main.67891f2e.js",
+    "static/js/787.0edbcda9.chunk.js": "/shabarishkera/personal-website-using-react/static/js/787.0edbcda9.chunk.js",
+    "static/media/background.jpg": "/shabarishkera/personal-website-using-react/static/media/background.ab39f53ec0275675841a.jpg",
+    "index.html": "/shabarishkera/personal-website-using-react/index.html",
+    "main.89dad679.css.map": "/shabarishkera/personal-website-using-react/static/css/main.89dad679.css.map",
+    "main.67891f2e.js.map": "/shabarishkera/personal-website-using-react/static/js/main.67891f2e.js.map",
+    "787.0edbcda9.chunk.js.map": "/shabarishkera/personal-website-using-react/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89dad679.css",
+    "static/js/main.67891f2e.js"
+  ]
+}
