@@ -5,9 +5,9 @@ return (
     
 <div className="Banner">
    <img src="../public/logo192.ppg" alt="" className="img"/>
-   <div className="bottom-left">
-<h1>SHABARISH KERA</h1>
-<p class="banner-sub">
+   <div className="bottom-left mx-4 ">
+<h1 className="bottom-left-h1">SHABARISH KERA</h1>
+<p className="banner-sub">
 Student at KVG college of engineering  ,<br/>
 5<sup>th</sup> sem  Computer Science
 

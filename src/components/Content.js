@@ -6,7 +6,7 @@ return(<>
 <div className="content-body">
 <div id="about" className="info">
   <h2 align="left">ABOUT ME</h2>
-  <p>
+  <p clasName="abt">
     Hi There, myself shabarish k .I am an computer science engineering
      student at kvg college of engineering sullia.Currently I am at my 5<sup>th</sup>sem  of my academics,expected to  graduate in 2024 from Visvesvaraya Technological University <br/>
      Over the past few months I have been able to aquire some skills on technologies and languages like java,html,css,python,c++,javascript,sql etc..
@@ -15,7 +15,7 @@ recently I have been enthusiastic about backend technology and  currently explor
    </div>
    <div id="skills" className="info">
      <h2 align="right">SKILLS</h2>
-     <p>
+     <p className="skl">
       <li>JAVA -advance</li>
       <li>C++ -intermediate</li>
       <li>JAVASCRIPT -intermediate</li>
@@ -32,7 +32,7 @@ recently I have been enthusiastic about backend technology and  currently explor
       </div>
       <div id="education" className="info">
         <h2 align="left">EDUCATION</h2>
-        <dl>
+        <dl className="edu">
     <dt>High School </dt>
     <dd>M.S.C.H.S.S Perdala Nirchal</dd>
 

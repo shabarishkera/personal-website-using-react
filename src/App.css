@@ -59,6 +59,8 @@
   position: absolute;
   left:0;
   bottom: 0;
+font-family:  monospace, sans-serif;
+
 }
 .content-body
 {
@@ -99,4 +101,13 @@ color:  white;
 li{
 
   list-style-position: inside;
+}
+.bottom-left-h1,.banner-sub
+{
+font-family: 'Times New Roman', Times, serif, 'Courier New', Courier, monospace;
+}
+.edu,.skl,.abt
+{
+font-family: monospace;
+
 }
