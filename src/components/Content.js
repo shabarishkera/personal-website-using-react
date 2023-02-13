@@ -13,7 +13,7 @@ return(<>
 recently I have been enthusiastic about backend technology and  currently exploring node js ,react etc...
   </p>
    </div>
-   <div id="skills" className="info">
+   <div id="skill" className="info">
      <h2 align="right">SKILLS</h2>
      <p className="skl">
       <li>JAVA -advance</li>

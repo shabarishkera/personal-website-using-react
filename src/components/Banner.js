@@ -3,7 +3,7 @@ function Banner()
 {
 return (
     
-<div className="Banner">
+<div className="Banner my-5">
    <img src="../public/logo192.ppg" alt="" className="img"/>
    <div className="bottom-left mx-4 ">
 <h1 className="bottom-left-h1">SHABARISH KERA</h1>

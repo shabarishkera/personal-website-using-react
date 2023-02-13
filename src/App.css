@@ -111,3 +111,17 @@ font-family: 'Times New Roman', Times, serif, 'Courier New', Courier, monospace;
 font-family: monospace;
 
 }
+.navbar
+{
+background-color:gray !important;
+
+}
+.nav-link,.navbar-brand
+{
+  color: white !important;
+}
+nav{
+position: fixed !important;
+z-index:10;
+width: 100%;top:0;
+}
